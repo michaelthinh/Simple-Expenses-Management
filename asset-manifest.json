@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-Expenses-Management/static/css/main.f0abc512.css",
+    "main.js": "/Simple-Expenses-Management/static/js/main.57b1af70.js",
+    "index.html": "/Simple-Expenses-Management/index.html",
+    "main.f0abc512.css.map": "/Simple-Expenses-Management/static/css/main.f0abc512.css.map",
+    "main.57b1af70.js.map": "/Simple-Expenses-Management/static/js/main.57b1af70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0abc512.css",
+    "static/js/main.57b1af70.js"
+  ]
+}
